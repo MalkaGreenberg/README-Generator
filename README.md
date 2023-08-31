@@ -17,6 +17,8 @@
   ## Usage
   use this to create a readme file for any of your github projects.
 
+  ![screenshot](utils/Screenshot.png)
+
   ## License
   This project is licensed under MIT.
 
